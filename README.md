@@ -1,6 +1,6 @@
 <div align="center">
 
-# Instagram Clean Reel Controls
+# Instagram Reels Extended Controls
 
 <a href="#install-in-less-than-two-minutes"><img src="https://img.shields.io/badge/Install-2%20minutes-1687ED?style=for-the-badge&logo=instagram&logoColor=white" alt="Install in 2 minutes"></a>
 <a href="#features"><img src="https://img.shields.io/badge/No%20native%20control%20bar-Clean%20reels-171A21?style=for-the-badge" alt="Clean reels"></a>
@@ -20,12 +20,12 @@ No clutter. No emoji buttons. Just the controls that are useful.
 Instagram Clean Reel Controls hides the browser’s default video-control bar and adds one polished floating controller that follows the active reel as you browse.
 
 ```text
-┌────────────────────────────────────┐
-│ REEL CONTROLS            0:08 / 0:54│  ← drag here
-│ ━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━ │  ← seek anywhere
-│ [ Back 5s ] [ − ] [ Pause ] [ + ] [ Ahead 5s ]
-│          [ Speed 1.00x ] [ Copy link ]
-└────────────────────────────────────┘
+┌───────────────────────────────────────────────┐
+│ REEL CONTROLS                     0:08 / 0:54 │  ← drag here
+│ ━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │  ← seek anywhere
+│ [ Back 5s ] [ − ] [ Pause ] [ + ] [ Ahead 5s ]│
+│          [ Speed 1.00x ] [ Copy link ]        │      
+└───────────────────────────────────────────────┘
 ```
 
 ## Features
